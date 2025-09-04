@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://lottie.host/embed/fda88fa5-63d8-4d1b-8b80-3c8a1151683f/CReE15vP1j.lottie" target="_blank">
-    <img src="preview.gif" width="400"/>
+  <a href="#" target="_blank">
+    <img src="coding.gif" width="400"/>
   </a>
 </div>
 
