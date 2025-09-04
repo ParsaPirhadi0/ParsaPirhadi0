@@ -1,8 +1,9 @@
 <div align="center">
-  <a href="">
-    <img src="AI Robot.json" width="400"/>
+  <a href="https://lottie.host/embed/fda88fa5-63d8-4d1b-8b80-3c8a1151683f/CReE15vP1j.lottie" target="_blank">
+    <img src="preview.gif" width="400"/>
   </a>
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Parsa</h1>
 
