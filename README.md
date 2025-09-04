@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#" target="_blank">
-    <img src="coding.gif" width="400"/>
+    <img src="coding.gif" width="600"/>
   </a>
 </div>
 
