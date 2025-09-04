@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://lottiefiles.com/free-animation/developer-profile" target="_blank" rel="noreferrer">
-    <img src="https://assets4.lottiefiles.com/packages/lf20_gb5bmwlm.json" alt="Lottie Animation" width="400"/>
+  <a href="">
+    <img src="AI Robot (1).gif" width="400"/>
   </a>
 </div>
 
