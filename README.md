@@ -1,6 +1,6 @@
 <div align="center">
   <a href="">
-    <img src="AI Robot (1).gif" width="400"/>
+    <img src="AI Robot.json" width="400"/>
   </a>
 </div>
 
